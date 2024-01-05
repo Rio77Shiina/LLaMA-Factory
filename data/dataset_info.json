@@ -1,6 +1,6 @@
 {
   "gozaru_ja": {
-    "file_name": "databricks-dolly-15k-ja-gozarinnemon",
+    "file_name": "databricks-dolly-15k-ja-gozarinnemon.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
