@@ -1,7 +1,7 @@
 {
   {
   "gozaru_ja": {
-    "hf_hub_url": "bbz662bbz/databricks-dolly-15k-ja-gozarinnemon",
+    "file_name": "databricks-dolly-15k-ja-gozarinnemon",
     "columns": {
       "prompt": "instruction",
       "query": "input",
